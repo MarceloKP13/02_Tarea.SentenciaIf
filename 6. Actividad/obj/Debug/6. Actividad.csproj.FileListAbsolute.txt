@@ -1,0 +1,7 @@
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\bin\Debug\_6.Actividad.exe.config
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\bin\Debug\_6.Actividad.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\bin\Debug\_6.Actividad.pdb
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\obj\Debug\6. Actividad.csproj.AssemblyReference.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\obj\Debug\6. Actividad.csproj.CoreCompileInputs.cache
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\obj\Debug\_6.Actividad.exe
+E:\Clases\3. Semestre\Programación Estructurada\Tarea\Visual Studio\02_Tarea.Sentencia If\6. Actividad\obj\Debug\_6.Actividad.pdb

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC22AD18-5EFF-4A64-BE59-02F36B8E0A92}|3. Actividad\\3. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\3. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC22AD18-5EFF-4A64-BE59-02F36B8E0A92}|3. Actividad\\3. Actividad.csproj|solutionrelative:3. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEADF1E9-47E2-49C5-983F-2C1B9E650CB6}|2. Actividad\\2. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\2. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEADF1E9-47E2-49C5-983F-2C1B9E650CB6}|2. Actividad\\2. Actividad.csproj|solutionrelative:2. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1864BB5-5C99-4540-8B9E-85DC0F4C52CF}|02_Tarea.Sentencia If\\02_Tarea.Sentencia If.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\02_tarea.sentencia if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1864BB5-5C99-4540-8B9E-85DC0F4C52CF}|02_Tarea.Sentencia If\\02_Tarea.Sentencia If.csproj|solutionrelative:02_tarea.sentencia if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F97CC7-3A29-4CC7-A5C1-128C1A96F788}|9. Actividad\\9. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\9. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F97CC7-3A29-4CC7-A5C1-128C1A96F788}|9. Actividad\\9. Actividad.csproj|solutionrelative:9. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1779F69A-CACF-4402-BB60-140DAEE3E745}|8. Actividad\\8. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\8. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1779F69A-CACF-4402-BB60-140DAEE3E745}|8. Actividad\\8. Actividad.csproj|solutionrelative:8. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC8CB6-8FF2-4CB2-8E0E-EEBD8C97096F}|7. Actividad\\7. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\7. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC8CB6-8FF2-4CB2-8E0E-EEBD8C97096F}|7. Actividad\\7. Actividad.csproj|solutionrelative:7. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18F6952-8A9F-4FFA-BF74-2738783E9AE8}|6. Actividad\\6. Actividad.csproj|e:\\clases\\3. semestre\\programaci\u00F3n estructurada\\tarea\\visual studio\\02_tarea.sentencia if\\6. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18F6952-8A9F-4FFA-BF74-2738783E9AE8}|6. Actividad\\6. Actividad.csproj|solutionrelative:6. actividad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\9. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "9. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\9. Actividad\\Program.cs",
+              "RelativeToolTip": "9. Actividad\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:02:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\8. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "8. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\8. Actividad\\Program.cs",
+              "RelativeToolTip": "8. Actividad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:58:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\7. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "7. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\7. Actividad\\Program.cs",
+              "RelativeToolTip": "7. Actividad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:52:58.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\6. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "6. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\6. Actividad\\Program.cs",
+              "RelativeToolTip": "6. Actividad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T04:43:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\3. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "3. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\3. Actividad\\Program.cs",
+              "RelativeToolTip": "3. Actividad\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:52:14.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\2. Actividad\\Program.cs",
+              "RelativeDocumentMoniker": "2. Actividad\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\2. Actividad\\Program.cs",
+              "RelativeToolTip": "2. Actividad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:45:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\02_Tarea.Sentencia If\\Program.cs",
+              "RelativeDocumentMoniker": "02_Tarea.Sentencia If\\Program.cs",
+              "ToolTip": "E:\\Clases\\3. Semestre\\Programaci\u00F3n Estructurada\\Tarea\\Visual Studio\\02_Tarea.Sentencia If\\02_Tarea.Sentencia If\\Program.cs",
+              "RelativeToolTip": "02_Tarea.Sentencia If\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:23:59.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
